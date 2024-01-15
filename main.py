@@ -19,3 +19,4 @@ for line in check_dict(sotring_df)[:5]:
     print(f"{date} {description}")
     print(f"{operation}")
     print(f"{amount} \n")
+
